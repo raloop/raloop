@@ -5,15 +5,21 @@
 
 <p align="left"> <a href="https://twitter.com/rareslup" target="blank"><img src="https://img.shields.io/twitter/follow/rareslup?logo=twitter&style=for-the-badge" alt="rareslup" /></a> </p>
 
-- 🌱 I’m currently learning **Scala, Clojure**
+<p>I'm a Software Engineer, passionate about giving simple solutions to quite complicated technical problems.</p>
 
-- 👨‍💻 All of my projects are available at [raloop.eu](raloop.eu)
+<p>I read a lot about technology, programming, technical stuff and watch a lot of live sessions regarding software industry. I always do my best and try to help people as much as possible.</p>
+
+<p>Feel free to get in touch with me 👨‍💻 🚀</p>
+
+- 💻 I’m currently learning Functional Programming in Kotlin and Scala
 
 - 💬 Ask me about **Java, Spring Boot, Kafka, Spark**
 
+- 🏋🏽 When I'm not writing code you can find me in the GYM
+
 - 📫 How to reach me **luprares@gmail.com**
 
-- ⚡ Fun fact **I am a child in a 40 years old man**
+- 📄 Know about my experiences https://www.linkedin.com/in/rares-lup-1a6108b1
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
